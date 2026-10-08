@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiniRPG_Raylib/MiniRPG_Raylib.vcxproj" Id="9aa23ef1-a7f6-4f75-bec8-323c86d217f8" />
+</Solution>
